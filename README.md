@@ -92,12 +92,12 @@ One of the things I love about the Node modules is that there is a managed locat
 
 ##### Command-line options 
 
-| Options   	| Description  									| Example               |
+| Options   	  | Description  									| Example               |
 |---------------|-----------------------------------------------|-----------------------|
 | search      	| Finds module packages in the repository       | npm search express    |
-| install    	| Installs a package either using a package.json file from the repository or from a local location          | npm install , npm install express , npm install express@0.1.1 , npm install ../Module.tgz         |
-| install -g  	| Installs a package in a globally accessible   | npm install express -g|
-| remove		| Removes module  								| npm remove express 	|
+| install    	  | Installs a package either using a package.json file from the repository or from a local location        | npm install , npm install express , npm install express@0.1.1 , npm install ../Module.tgz         |
+| install -g  	| Installs a package in a globally accessible   | npm install -g express-generator|
+| remove		    | Removes module  								              | npm remove express   	|
 
 
 

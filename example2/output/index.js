@@ -1,4 +1,4 @@
- prefix = 'Node Module program Outputs :';
+ var prefix = 'Node Module program Outputs :';
 
 module.exports =function  (msg) {
 	console.log(prefix + msg);

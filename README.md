@@ -86,7 +86,7 @@ In this case, it's best to list these additional items in a devDependencies hash
 
 ```
 
-To view the full [package.json specification].
+To view the full [package.json specification]. Also visit the [interactive guide].
 
 One of the things I love about the Node modules is that there is a managed location called the Node Package Registry where packages are registered. The registry allows you to publish your own packages in a location where others can use them as well as download packages that others have created. The Node Package Registry is located at http:// npmjs.org . From this location, you can view the newest and most popular modules as well as search for specific packages.
 
@@ -105,4 +105,4 @@ One of the things I love about the Node modules is that there is a managed locat
 
 
 [package.json specification]:https://www.npmjs.org/doc/files/package.json.html
-
+[interactive guide]:http://browsenpm.org/package.json
